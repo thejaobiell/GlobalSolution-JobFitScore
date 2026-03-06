@@ -1,0 +1,10 @@
+bin/
+obj/
+*.pdb
+*.dll
+*.exe
+*.cache
+*.log
+*.sourcelink.json
+*.db
+.env

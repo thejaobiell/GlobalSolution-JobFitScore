@@ -945,4 +945,3 @@ Authorization: Bearer {{jwt}}
     </tr>
   </table>
 </div>
-
